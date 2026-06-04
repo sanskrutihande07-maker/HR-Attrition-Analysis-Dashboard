@@ -1,6 +1,8 @@
 
 # HR Attrition Analytics Dashboard
 
+A Power BI dashboard to analyze employee attrition trends and identify key factors affecting employee retention.
+
 <img width="1600" height="900" alt="HR Attrition Analysis" src="https://github.com/user-attachments/assets/9504971a-534a-4109-8e4e-36129ca401f7" />
 
 
