@@ -23,25 +23,61 @@ The dashboard helps identify attrition trends by department, job role, overtime,
 - Understand how job satisfaction and work-life balance affect employee retention
 
 ## 🛠️ Tools Used
+- SQL
 - Power BI
 - Excel
 - Data Cleaning
 - Data Visualization
-- HR Analytics
 
+  
 ## 📈 Key Insights
-- Overall attrition rate is 22.47%
-- Total employees: 10,000
-- Total attrition: 2,247
-- Active employees: 7,753
+- Overall attrition rate is 22.48%
+- Total employees: 10,005
+- Total attrition: 2,249
+- Active employees: 7,756
 - Average age: 40
 - Attrition can be analyzed by department, overtime, travel, job role, education, and salary hike
 
-## 📁 Project Files
-- Power BI Dashboard file
-- Dataset
-- Dashboard screenshots
-- README documentation
+
+## ✅ Conclusion
+This dashboard provides a clear view of employee attrition patterns and helps HR teams make better decisions to improve employee retention.
+
+
+# HR Attrition Analytics Dashboard
+
+<img width="1000" alt="HR Attrition Analytics Cover" src="images/cover.jpeg">
+
+## 📌 Project Overview
+This project analyzes employee attrition data to understand the key factors affecting employee turnover.  
+The dashboard helps identify attrition trends by department, job role, overtime, salary hike, education, travel, work-life balance, and job satisfaction.
+
+## 📊 Dashboard Preview
+
+<img width="1000" alt="HR Analytics Dashboard" src="images/dashboard.png">
+
+## ❓ Business Problem
+
+<img width="1000" alt="Business Problem" src="images/business_problem.jpeg">
+
+- Find the overall attrition rate
+- Identify departments and job roles with high attrition
+- Analyze the impact of overtime, travel, salary hike, and distance from home
+- Understand how job satisfaction and work-life balance affect employee retention
+
+## 🛠️ Tools Used
+- Power BI
+- Excel
+- SQL
+- Data Cleaning
+- Data Visualization
+
+## 📈 Key Insights
+- Overall attrition rate is 22.48%
+- Total employees: 10,005
+- Total attrition: 2,249
+- Active employees: 7,756
+- Average age: 40
+- Attrition can be analyzed by department, overtime, travel, job role, education, and salary hike
 
 ## ✅ Conclusion
 This dashboard provides a clear view of employee attrition patterns and helps HR teams make better decisions to improve employee retention.
