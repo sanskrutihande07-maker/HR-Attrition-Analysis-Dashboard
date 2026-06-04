@@ -14,7 +14,7 @@ The dashboard helps identify attrition trends by department, job role, overtime,
 
 ## ❓ Business Problem
 
-![Business Problem](images/business_problem.png)
+"C:\Users\hande\Downloads\Buisness Problem.jpeg"
 
 ## 🎯 Key Objectives
 - Find the overall attrition rate
