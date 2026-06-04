@@ -45,7 +45,7 @@ This dashboard provides a clear view of employee attrition patterns and helps HR
 
 # HR Attrition Analytics Dashboard
 
-<img width="1000" alt="HR Attrition Analytics Cover" src="images/cover.jpeg">
+<img width="1000" alt="HR Attrition Analytics" src="images/HR Attrition Analysis.jpeg">
 
 ## 📌 Project Overview
 This project analyzes employee attrition data to understand the key factors affecting employee turnover.  
@@ -57,7 +57,7 @@ The dashboard helps identify attrition trends by department, job role, overtime,
 
 ## ❓ Business Problem
 
-<img width="1000" alt="Business Problem" src="images/business_problem.jpeg">
+<img width="1000" alt="Business Problem" src="images/Business problem.jpeg">
 
 - Find the overall attrition rate
 - Identify departments and job roles with high attrition
