@@ -10,7 +10,7 @@ The dashboard helps identify attrition trends by department, job role, overtime,
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](images/dashboard.png)
+<img width="1600" height="900" alt="Dashboard" src= "https://github.com/sanskrutihande07-maker/HR-Attrition-Analysis-Dashboard/blob/main/Dasboard.png" />
 
 ## ❓ Business Problem
 
