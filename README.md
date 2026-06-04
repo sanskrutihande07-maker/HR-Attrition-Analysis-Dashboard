@@ -1,7 +1,8 @@
 
 # HR Attrition Analytics Dashboard
 
-![HR Attrition Analytics Cover](images/"C:\Users\hande\Downloads\HR Attrition Analysis.jpeg")
+<img width="1600" height="900" alt="HR Attrition Analysis" src="https://github.com/user-attachments/assets/9504971a-534a-4109-8e4e-36129ca401f7" />
+
 
 ## 📌 Project Overview
 This project analyzes employee attrition data to understand the key factors affecting employee turnover.  
